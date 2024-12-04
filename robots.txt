@@ -1,0 +1,5 @@
+
+Sitemap: https://Tessa1996.github.io/zola_example/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://Tessa1996.github.io/zola_example
