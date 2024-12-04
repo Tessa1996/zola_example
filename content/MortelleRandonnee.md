@@ -13,3 +13,11 @@ toc = true
 
 tatas
 toto
+
+* * *
+
+| Tessa | Mathulde | Leo |
+|-------|----------|-----|
+| pomme | poire | citron |
+| fraise | framboise | banane |
+| kiwi | raisin | orange |
