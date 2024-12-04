@@ -25,6 +25,12 @@
         
         <content type="html" xml:base="https://Tessa1996.github.io/zola_example/mortellerandonnee/">&lt;p&gt;tatas
 toto&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Tessa&lt;&#x2F;th&gt;&lt;th&gt;Mathulde&lt;&#x2F;th&gt;&lt;th&gt;Leo&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;pomme&lt;&#x2F;td&gt;&lt;td&gt;poire&lt;&#x2F;td&gt;&lt;td&gt;citron&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;fraise&lt;&#x2F;td&gt;&lt;td&gt;framboise&lt;&#x2F;td&gt;&lt;td&gt;banane&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;kiwi&lt;&#x2F;td&gt;&lt;td&gt;raisin&lt;&#x2F;td&gt;&lt;td&gt;orange&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 </content>
         
     </entry>
